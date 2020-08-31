@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #CCCCCC;
+    height: 1024px;
+    width: 1000px;
+    margin: 0 auto;
+}
+/*头部*/
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+
+.head{
+    margin-top: 10px;
+    height: 140px;
+    border-bottom: 2px solid #663399;
+}
+
+.head_box1,
+.head_box2,
+.head_box3{
+    height: 100px;
+    width: 250px;
+  
+}
+.s1{
+    color: #663399;
+    font-size: 30px;
+    padding-top: 5px;
+}
+.s3{
+    background: url("../image/日历.svg") no-repeat;
+    background-size: 20px;
+}
+.s4{
+    background: url("../image/电话.svg") no-repeat;
+    background-size: 20px;
+}
+.s5{
+    background: url("../image/地址.svg") no-repeat;
+    background-size: 20px;
+}
+.s6{
+    background: url("../image/邮箱.svg") no-repeat;
+    background-size: 20px;
+}
+span{
+    line-height: 50px;
+    padding: 0 25px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+
+/*内容*/
+.content_box1{
+   
+    height: 150px;
+    padding-top: 15px;
+}
+
+.content_box1_r,
+.content_box2_r1,
+.content_box3_r,
+.content_box4_r{
+    margin-top: 25px;
+    border-top: 2px solid #663399;
+}
+.p1
+{
+    line-height: 30px;
+    padding: 0 25px;
+    color: #333366;
+}
+.content_box2{
+    height: 360px;
+    padding-top: 15px;
+}
+.content_box2_l2{
+    margin-top: 70px;
+}
+
+.content_box3{
+    height: 100px;
+    padding-top: 15px;
+}
+.content_box4{
+    height: 200px;
+    padding-top: 15px;
+}
+
+.content_box3_r,
+.content_box4_r{
+    margin-left:42px ;
+    margin-top: 20px;
+    width: 784px;
+}
+
